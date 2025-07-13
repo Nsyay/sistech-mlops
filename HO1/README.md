@@ -48,6 +48,10 @@ After scraping the courses data, I performed a series of preprocessing steps to 
    * Removed English stopwords
    * Lemmatized the tokens into their base forms
 
+before and after example:<br>
+**before**: Launch your career as a business analyst. Build job-ready skills for an in-demand career in business analysis in as little as 3 months. No prior experience required to get started.
+**after**: launch career business analyst build jobready skill indemand career business analysis little month prior experience required get started
+
 ## 🍃 Reflection
 During this hands-on, I encountered several challenges, especially due to the dynamic nature of Coursera's website
 1.  **Inconsistent HTML Structures**
