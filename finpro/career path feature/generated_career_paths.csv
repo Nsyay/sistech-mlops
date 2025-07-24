@@ -1,0 +1,151 @@
+path_id,level,role,required_skills,avg_salary,industry
+Doctor Path,1,Medical Intern,"Anatomy,Clinical Practice,Patient Care",50000,Healthcare
+Doctor Path,1,Medical Intern,"Anatomy,Clinical Practice,Patient Care",50000,Healthcare
+Blockchain Path,1,Smart Contract Dev Intern,"Solidity,Remix IDE",40000,Web3
+Film Production Path,1,Production Assistant,"Coordination,Script Reading,Equipment Handling",30000,Media
+Film Production Path,1,Production Assistant,"Coordination,Script Reading,Equipment Handling",30000,Media
+Mobile Dev Path,1,Junior Android Developer,"Java,Kotlin,XML",50000,Tech
+Nursing Path,1,Nursing Assistant,"Patient Monitoring,Basic Care,CPR",35000,Healthcare
+Game Dev Path,1,Game Tester,"Bug Reporting,Gameplay Analysis",30000,Gaming
+Legal Path,1,Paralegal,"Legal Research,Documentation,Communication",40000,Legal
+Nursing Path,1,Nursing Assistant,"Patient Monitoring,Basic Care,CPR",35000,Healthcare
+Civil Engineering Path,1,Site Engineer,"AutoCAD,Blueprint Reading,Math",50000,Engineering
+Nursing Path,1,Nursing Assistant,"Patient Monitoring,Basic Care,CPR",35000,Healthcare
+Cybersecurity Path,1,Security Analyst,"Networking,Python,Log Analysis",65000,Tech
+Nursing Path,2,Registered Nurse,"Clinical Procedures,Medication,Patient Advocacy",60000,Healthcare
+Banking Path,1,Banking Associate,"Customer Service,Excel,Compliance",35000,Banking
+Legal Path,1,Paralegal,"Legal Research,Documentation,Communication",40000,Legal
+Banking Path,1,Banking Associate,"Customer Service,Excel,Compliance",35000,Banking
+Doctor Path,1,Medical Intern,"Anatomy,Clinical Practice,Patient Care",50000,Healthcare
+Public Service Path,1,Clerk,"Filing,Communication,Document Handling",25000,Government
+Banking Path,1,Banking Associate,"Customer Service,Excel,Compliance",35000,Banking
+Banking Path,2,Loan Officer,"Credit Analysis,Negotiation",60000,Banking
+Blockchain Path,1,Smart Contract Dev Intern,"Solidity,Remix IDE",40000,Web3
+Legal Path,1,Paralegal,"Legal Research,Documentation,Communication",40000,Legal
+Mobile Dev Path,1,Junior Android Developer,"Java,Kotlin,XML",50000,Tech
+Logistics Path,1,Warehouse Staff,"Inventory,Scanning,Labeling",30000,Operations
+Actuarial Path,1,Actuarial Assistant,"Excel,Probability,Statistics",50000,Finance
+Public Service Path,1,Clerk,"Filing,Communication,Document Handling",25000,Government
+Teacher Path,1,Assistant Teacher,"Classroom Management,Creativity",30000,Education
+Environmental Science Path,1,Field Assistant,"Sampling,Observation,Report Writing",35000,Science
+Public Service Path,1,Clerk,"Filing,Communication,Document Handling",25000,Government
+Environmental Science Path,1,Field Assistant,"Sampling,Observation,Report Writing",35000,Science
+Civil Engineering Path,1,Site Engineer,"AutoCAD,Blueprint Reading,Math",50000,Engineering
+Statistics Path,1,Data Assistant,"Excel,R,Data Entry",40000,Science
+Public Service Path,2,Government Officer,"Policy Analysis,Public Speaking,Compliance",45000,Government
+Film Production Path,1,Production Assistant,"Coordination,Script Reading,Equipment Handling",30000,Media
+Game Dev Path,1,Game Tester,"Bug Reporting,Gameplay Analysis",30000,Gaming
+Cybersecurity Path,1,Security Analyst,"Networking,Python,Log Analysis",65000,Tech
+Doctor Path,2,Resident Doctor,"Diagnosis,Medical Procedures,Teamwork",70000,Healthcare
+Statistics Path,1,Data Assistant,"Excel,R,Data Entry",40000,Science
+Legal Path,2,Lawyer,"Case Management,Legal Advice,Debate",75000,Legal
+Actuarial Path,1,Actuarial Assistant,"Excel,Probability,Statistics",50000,Finance
+Environmental Science Path,1,Field Assistant,"Sampling,Observation,Report Writing",35000,Science
+Architecture Path,1,Junior Architect,"Sketching,AutoCAD,Design Principles",45000,Design
+Logistics Path,1,Warehouse Staff,"Inventory,Scanning,Labeling",30000,Operations
+Teacher Path,1,Assistant Teacher,"Classroom Management,Creativity",30000,Education
+Actuarial Path,1,Actuarial Assistant,"Excel,Probability,Statistics",50000,Finance
+Civil Engineering Path,1,Site Engineer,"AutoCAD,Blueprint Reading,Math",50000,Engineering
+Mobile Dev Path,1,Junior Android Developer,"Java,Kotlin,XML",50000,Tech
+Nursing Path,2,Registered Nurse,"Clinical Procedures,Medication,Patient Advocacy",60000,Healthcare
+Doctor Path,2,Resident Doctor,"Diagnosis,Medical Procedures,Teamwork",70000,Healthcare
+Mobile Dev Path,2,Mobile Developer,"React Native,Flutter,State Management",75000,Tech
+Cybersecurity Path,1,Security Analyst,"Networking,Python,Log Analysis",65000,Tech
+Statistics Path,1,Data Assistant,"Excel,R,Data Entry",40000,Science
+Architecture Path,1,Junior Architect,"Sketching,AutoCAD,Design Principles",45000,Design
+Civil Engineering Path,2,Civil Engineer,"Structural Design,Project Planning",75000,Engineering
+Banking Path,2,Loan Officer,"Credit Analysis,Negotiation",60000,Banking
+Actuarial Path,2,Actuary,"Risk Modeling,R,Insurance Knowledge",80000,Finance
+Therapist Path,1,Therapy Intern,"Listening,Empathy,Note Taking",30000,Healthcare
+Therapist Path,1,Therapy Intern,"Listening,Empathy,Note Taking",30000,Healthcare
+Environmental Science Path,2,Environmental Scientist,"GIS,Modeling,Policy",60000,Science
+Mobile Dev Path,2,Mobile Developer,"React Native,Flutter,State Management",75000,Tech
+Doctor Path,2,Resident Doctor,"Diagnosis,Medical Procedures,Teamwork",70000,Healthcare
+Nursing Path,2,Registered Nurse,"Clinical Procedures,Medication,Patient Advocacy",60000,Healthcare
+Public Service Path,2,Government Officer,"Policy Analysis,Public Speaking,Compliance",45000,Government
+Banking Path,2,Loan Officer,"Credit Analysis,Negotiation",60000,Banking
+Film Production Path,2,Film Editor,"Adobe Premiere,Timeline Editing",55000,Media
+Logistics Path,1,Warehouse Staff,"Inventory,Scanning,Labeling",30000,Operations
+Banking Path,3,Banking Manager,"Team Management,Strategy,Finance",90000,Banking
+Architecture Path,1,Junior Architect,"Sketching,AutoCAD,Design Principles",45000,Design
+Public Service Path,2,Government Officer,"Policy Analysis,Public Speaking,Compliance",45000,Government
+Environmental Science Path,2,Environmental Scientist,"GIS,Modeling,Policy",60000,Science
+Actuarial Path,2,Actuary,"Risk Modeling,R,Insurance Knowledge",80000,Finance
+Cybersecurity Path,2,Cybersecurity Engineer,"Pen Testing,SIEM,Firewalls",90000,Tech
+Teacher Path,1,Assistant Teacher,"Classroom Management,Creativity",30000,Education
+Nursing Path,3,Nurse Practitioner,"Diagnosis,Prescriptions,Specialization",90000,Healthcare
+Statistics Path,2,Statistician,"Hypothesis Testing,R,SPSS",70000,Science
+Logistics Path,2,Supply Chain Analyst,"Excel,Forecasting,ERP",55000,Operations
+Film Production Path,2,Film Editor,"Adobe Premiere,Timeline Editing",55000,Media
+Actuarial Path,2,Actuary,"Risk Modeling,R,Insurance Knowledge",80000,Finance
+Nursing Path,3,Nurse Practitioner,"Diagnosis,Prescriptions,Specialization",90000,Healthcare
+Film Production Path,2,Film Editor,"Adobe Premiere,Timeline Editing",55000,Media
+Banking Path,3,Banking Manager,"Team Management,Strategy,Finance",90000,Banking
+Environmental Science Path,2,Environmental Scientist,"GIS,Modeling,Policy",60000,Science
+Banking Path,3,Banking Manager,"Team Management,Strategy,Finance",90000,Banking
+Statistics Path,2,Statistician,"Hypothesis Testing,R,SPSS",70000,Science
+Nursing Path,3,Nurse Practitioner,"Diagnosis,Prescriptions,Specialization",90000,Healthcare
+Game Dev Path,1,Game Tester,"Bug Reporting,Gameplay Analysis",30000,Gaming
+Film Production Path,3,Film Director,"Creative Direction,Leadership,Storytelling",90000,Media
+Legal Path,2,Lawyer,"Case Management,Legal Advice,Debate",75000,Legal
+Film Production Path,3,Film Director,"Creative Direction,Leadership,Storytelling",90000,Media
+Actuarial Path,3,Chief Actuary,"Leadership,Strategic Forecasting",110000,Finance
+Legal Path,2,Lawyer,"Case Management,Legal Advice,Debate",75000,Legal
+Legal Path,3,Senior Legal Counsel,"Negotiation,Leadership,Corporate Law",110000,Legal
+Game Dev Path,2,Game Developer,"Unity,C++,Game Physics",70000,Gaming
+Public Service Path,3,Department Head,"Leadership,Strategic Planning,Budgeting",80000,Government
+Actuarial Path,3,Chief Actuary,"Leadership,Strategic Forecasting",110000,Finance
+Legal Path,3,Senior Legal Counsel,"Negotiation,Leadership,Corporate Law",110000,Legal
+Blockchain Path,1,Smart Contract Dev Intern,"Solidity,Remix IDE",40000,Web3
+Blockchain Path,2,Blockchain Developer,"Solidity,Ethereum,DApps",80000,Web3
+Game Dev Path,2,Game Developer,"Unity,C++,Game Physics",70000,Gaming
+Statistics Path,2,Statistician,"Hypothesis Testing,R,SPSS",70000,Science
+Film Production Path,3,Film Director,"Creative Direction,Leadership,Storytelling",90000,Media
+Therapist Path,1,Therapy Intern,"Listening,Empathy,Note Taking",30000,Healthcare
+Teacher Path,2,Teacher,"Curriculum Design,Assessment,Communication",50000,Education
+Cybersecurity Path,2,Cybersecurity Engineer,"Pen Testing,SIEM,Firewalls",90000,Tech
+Public Service Path,3,Department Head,"Leadership,Strategic Planning,Budgeting",80000,Government
+Therapist Path,2,Clinical Therapist,"CBT,Assessment,Intervention Planning",55000,Healthcare
+Civil Engineering Path,2,Civil Engineer,"Structural Design,Project Planning",75000,Engineering
+Logistics Path,2,Supply Chain Analyst,"Excel,Forecasting,ERP",55000,Operations
+Architecture Path,2,Architect,"Building Codes,Client Communication",70000,Design
+Environmental Science Path,3,Senior Environmental Analyst,"Strategy,Compliance,Leadership",85000,Science
+Architecture Path,2,Architect,"Building Codes,Client Communication",70000,Design
+Therapist Path,2,Clinical Therapist,"CBT,Assessment,Intervention Planning",55000,Healthcare
+Statistics Path,3,Senior Statistician,"Modeling,Publications,Leadership",95000,Science
+Blockchain Path,2,Blockchain Developer,"Solidity,Ethereum,DApps",80000,Web3
+Environmental Science Path,3,Senior Environmental Analyst,"Strategy,Compliance,Leadership",85000,Science
+Teacher Path,2,Teacher,"Curriculum Design,Assessment,Communication",50000,Education
+Civil Engineering Path,2,Civil Engineer,"Structural Design,Project Planning",75000,Engineering
+Game Dev Path,2,Game Developer,"Unity,C++,Game Physics",70000,Gaming
+Public Service Path,3,Department Head,"Leadership,Strategic Planning,Budgeting",80000,Government
+Doctor Path,3,Specialist Doctor,"Expertise in Field,Research,Leadership",120000,Healthcare
+Statistics Path,3,Senior Statistician,"Modeling,Publications,Leadership",95000,Science
+Legal Path,3,Senior Legal Counsel,"Negotiation,Leadership,Corporate Law",110000,Legal
+Architecture Path,2,Architect,"Building Codes,Client Communication",70000,Design
+Doctor Path,3,Specialist Doctor,"Expertise in Field,Research,Leadership",120000,Healthcare
+Statistics Path,3,Senior Statistician,"Modeling,Publications,Leadership",95000,Science
+Civil Engineering Path,3,Senior Civil Engineer,"Risk Management,Budget Control,Leadership",100000,Engineering
+Cybersecurity Path,2,Cybersecurity Engineer,"Pen Testing,SIEM,Firewalls",90000,Tech
+Mobile Dev Path,2,Mobile Developer,"React Native,Flutter,State Management",75000,Tech
+Cybersecurity Path,3,Chief Security Officer,"Risk Strategy,Team Management,Compliance",130000,Tech
+Therapist Path,2,Clinical Therapist,"CBT,Assessment,Intervention Planning",55000,Healthcare
+Mobile Dev Path,3,Senior Mobile Engineer,"CI/CD,App Architecture,Leadership",100000,Tech
+Therapist Path,3,Psychologist,"Diagnosis,Research,Specialized Therapy",85000,Healthcare
+Mobile Dev Path,3,Senior Mobile Engineer,"CI/CD,App Architecture,Leadership",100000,Tech
+Civil Engineering Path,3,Senior Civil Engineer,"Risk Management,Budget Control,Leadership",100000,Engineering
+Game Dev Path,3,Lead Game Developer,"Graphics Pipeline,Team Leadership",100000,Gaming
+Civil Engineering Path,3,Senior Civil Engineer,"Risk Management,Budget Control,Leadership",100000,Engineering
+Doctor Path,3,Specialist Doctor,"Expertise in Field,Research,Leadership",120000,Healthcare
+Mobile Dev Path,3,Senior Mobile Engineer,"CI/CD,App Architecture,Leadership",100000,Tech
+Architecture Path,3,Senior Architect,"Urban Planning,Leadership,Conceptual Design",100000,Design
+Teacher Path,2,Teacher,"Curriculum Design,Assessment,Communication",50000,Education
+Blockchain Path,2,Blockchain Developer,"Solidity,Ethereum,DApps",80000,Web3
+Game Dev Path,3,Lead Game Developer,"Graphics Pipeline,Team Leadership",100000,Gaming
+Logistics Path,2,Supply Chain Analyst,"Excel,Forecasting,ERP",55000,Operations
+Game Dev Path,3,Lead Game Developer,"Graphics Pipeline,Team Leadership",100000,Gaming
+Cybersecurity Path,3,Chief Security Officer,"Risk Strategy,Team Management,Compliance",130000,Tech
+Blockchain Path,3,Web3 Architect,"Security,DeFi,Architecture Design",120000,Web3
+Architecture Path,3,Senior Architect,"Urban Planning,Leadership,Conceptual Design",100000,Design
+Architecture Path,3,Senior Architect,"Urban Planning,Leadership,Conceptual Design",100000,Design
+Environmental Science Path,3,Senior Environmental Analyst,"Strategy,Compliance,Leadership",85000,Science
